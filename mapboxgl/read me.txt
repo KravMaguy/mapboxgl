@@ -1,0 +1,31 @@
+/* on login.php need to check email and password against the database
+*provide error handling message that they need to register
+*reverse hash and salt
+ on registration:
+*send email to user
+*check that email is not already in db
+*error handling if user already registered or if invalid password etc..
+*post data to DB
+*hash and salt
+
+Map.php added the check for existance of session variable.
+*error handling
+
+logout, takes to the homepage 
+login and logout 
+*is administrator is not working so CHECK yoself!!
+
+**header and footer
+
+add: everything mysqli_real_escape_STRING() needs to be secure. 
+
+on map.php
+* how to build two floors technique dont need the spaceplans only to draw the floors can delete them after
+they dont need height prop
+*techniques to limit api calls in the program to save $$
+* fix all 404 errors in console();
+testing:
+does work on desktop?
+does work on mobile? 
+timeout with alert to call phone number for listings.
+*/

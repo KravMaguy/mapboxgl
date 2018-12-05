@@ -1,0 +1,128 @@
+  var stores=    
+  {
+  
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -87.719905,
+                 42.027887
+              ]
+            },
+            "properties": {
+              "phoneFormatted": "(847) 780-6370",
+              "phone": "8477806370",
+              "address": "8052 Monticello Ave",
+              "city": "Skokie IL",
+              "country": "United States",
+              "crossStreet": "Monticello and Keeney",
+              "postalCode": "60076",
+              "state": "IL"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -87.714868,
+				42.029236 
+              ]
+            },
+            "properties": {
+              "phoneFormatted": "(847) 982-0160",
+              "phone": "2025078357",
+              "address": "8111 St Louis",
+              "city": "Skokie IL",
+              "country": "United States",
+              "crossStreet": "St louis",
+              "postalCode": "60076",
+              "state": "IL"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+              -87.716930,
+				42.013274 
+              ]
+            },
+            "properties": {
+              "phoneFormatted": "(702) 461-5772",
+              "phone": "2023879338",
+              "address": "7231 St Louis",
+              "city": "Skokie IL",
+              "country": "United States",
+              "crossStreet": "St louis",
+              "postalCode": "60076",
+              "state": "IL"
+            }
+          },
+		    {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+              -87.717890,
+				42.029122
+              ]
+            },
+            "properties": {
+              "phoneFormatted": "(702) 461-5772",
+              "phone": "2023879338",
+              "address": "8121 N Central Park",
+              "city": "Skokie IL",
+              "country": "United States",
+              "crossStreet": "St louis",
+              "postalCode": "60076",
+              "state": "IL"
+            }
+          },
+			{
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+               -87.719973,
+			   42.029343
+              ]
+            },
+            "properties": {
+              "phoneFormatted": "(702) 461-5772",
+              "phone": "2023879338",
+              "address": "8100 N Monticello",
+              "city": "Skokie IL",
+              "country": "United States",
+              "crossStreet": "St louis",
+              "postalCode": "60076",
+              "state": "IL"
+            }
+          },
+			{
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+               -87.884323,
+			   42.039259
+              ]
+            },
+            "properties": {
+              "phoneFormatted": "(702) 461-5772",
+              "phone": "2023879338",
+              "address": "1585 Ellinwood Ave",
+              "city": "Des Plains IL",
+              "country": "United States",
+              "crossStreet": "St louis",
+              "postalCode": "60076",
+              "state": "IL"
+            }
+          }
+		  
+        ]
+      }
